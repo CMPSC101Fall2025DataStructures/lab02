@@ -1,5 +1,6 @@
 # # CS101 Fall 2025: Lab 02
-# Assignment: Build Your Own Game of *Rock, Paper, Scissors*!
+
+## Assignment: Build Your Own Game of *Rock, Paper, Scissors*!
 
 Welcome to your programming assignment for CS101! In this lab, you will complete a Rock Paper Scissors game by filling in the missing parts of the provided `main.py` file.
 
